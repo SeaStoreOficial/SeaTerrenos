@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SeaTerrenos">
+    <output-path>$USER_HOME$/OneDrive/Ambiente de Trabalho/Server/plugins</output-path>
+    <root id="archive" name="SeaTerrenos.jar">
+      <element id="module-output" name="SeaTerrenos" />
+      <element id="module-output" name="SeaTerrenos.main" />
+    </root>
+  </artifact>
+</component>

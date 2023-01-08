@@ -1,0 +1,6 @@
+name: SeaTerrenos
+main: org.loopz.seaterrenos.Main
+author: Loopz
+version: 1.0
+commands:
+  terreno:
